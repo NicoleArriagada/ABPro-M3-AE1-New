@@ -1,3 +1,74 @@
+* {   
+    padding: 0;
+    margin: 0;
+}
+
+.contenedor0 {
+    background-image: url(https://images.pexels.com/photos/2395249/pexels-photo-2395249.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260);
+    /*background-position: center;*/
+    display: flex;
+    background-repeat: no-repeat; 
+    background-size: cover;    
+    height: 80vh;
+    width: 100vw;   
+    padding: 0px;
+}
+
+.contenedor1 {
+    background-color: rgba(151, 55, 55, 0.767);
+    left: 10vh;
+    margin-top: 10vh;
+    margin-left: 33vw;
+    width:66vw;
+    height: 50vh;
+    padding: 0px;
+}
+
+.contenedor2 {
+    display: flex;
+}
+
+.bgbase__color1 {
+    background-color: rgb(187, 104, 104);
+    display: absolute;
+    width: 50vw;
+    height: 70vh;
+    
+}
+.bgoverlay__color {
+    background-color: white;
+    color: rgb(187, 104, 104);
+    display: absolute;
+    width: 40vw;
+    height: 60vh;
+}
+.bgbase__color2 {
+    background-color: white;
+    color: rgb(187, 104, 104);
+    display: absolute;
+    width: 50vw;
+    height: 70vh;
+    padding:0vw; 
+}
+.portada__cta--titulo {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;    
+    display: block;
+    margin: auto;
+    color: white;
+    width: 50vw;
+    padding-left: 20vw;
+    padding-right: 20vw;
+    padding-top: 5vh;
+}
+.portada__titulo--uno {
+    font-size: 6vw;
+}
+.portada__titulo--tres {
+    font-size: 3vw;
+}
+.portada__titulo--seis {
+        font-size: 1vw;
+}
 .bloque__principal{
     margin-top: 30px;
 
