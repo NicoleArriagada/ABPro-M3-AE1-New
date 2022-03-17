@@ -212,7 +212,7 @@
 
 /* Giani */
 
-.color_blanco_1 {
+.section2__background--color1 {
     background-color: white;
     width: vmax;
     height: 30vh;
@@ -220,43 +220,45 @@
     justify-content: center;
 }
 
-.idem {
+.section3 {
     width: 175px;
     height: 275px;
 }
-
-.idem__h2 {
+.section3 img {
+    border-radius: 50%;
+}
+.section3__h2 {
     text-align: center;
 }
 
-.idem__p {
+.section3__parrafo {
     text-align: justify;
     font-family: 'Pacifico', cursive;
 }
 
-.idem img {
-    border-radius: 50%;
-}
 
-.color_gris_1 {
+
+.section2__background--color2 {
     background-color: rgb(187, 104, 104);
     width: vmax;
     height: 40vh;
 }
 
-.color_gris_2 {
+.section2__background--color3 {
     background-color: rgb(187, 104, 104);
     width: vmax;
     height: 30vh;
     display: flex;
     justify-content: center;
 }
-
-.color_gris_2 img {
-    margin: 0;
+.section2__background--color4 {
+    background-color: rgb(187, 104, 104);
+    width: vmax;
+    height: 20vh;
 }
 
-.comentario {
+
+.section4 {
     width: 300px;
     height: 250px;
     background-color: white;
@@ -270,27 +272,23 @@
     padding-top: 0%;
 }
 
-.comentario__h5 {
+.section4__texto--titulo {
     text-align: center;
 }
 
-.comentario__h2 {
+.section4__texto--parrafo {
     text-align: justify;
     font-family: 'Dancing Script', cursive;
     font-size: x-large;
 }
 
-.comentario__button {
+.section4__button {
     margin-left: 40%;
     border-radius: 15%;
     background-color: rgba(218, 218, 218, 1);
 }
 
-.color_blanco_2 {
-    background-color: rgb(187, 104, 104);
-    width: vmax;
-    height: 20vh;
-}
+
 
 /* Nicole */
 
@@ -299,7 +297,7 @@
     margin: 0;
 }
 
-.contenedor0 {
+.section__portada--background {
     background-image: url(https://images.pexels.com/photos/2395249/pexels-photo-2395249.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260);
     /*background-position: center;*/
     display: flex;
@@ -310,7 +308,7 @@
     padding: 0px;
 }
 
-.contenedor1 {
+.section__portada {
     background-color: rgba(151, 55, 55, 0.767);
     left: 10vh;
     margin-top: 10vh;
