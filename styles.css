@@ -1,0 +1,380 @@
+/* daniel*/
+
+.bloque__principal {
+    margin-top: 30px;
+
+
+}
+
+.primera__columna {        
+    background-color: rgb(187, 104, 104);
+    height: 410px;
+    width: 350px;
+    margin-right: 12px;
+    margin-left: 12px;
+
+
+}
+
+.primera__columna img {
+    width: 300px;
+    height: 250px;
+    border-radius: 100%;
+
+}
+
+.primera__columna--parrafo {
+    font-size: 40px;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+
+.segunda__columna {
+    background-color: rgb(151, 55, 55);
+    height: 300px;
+    width: 300px;
+
+}
+
+.segunda__columna--parrafo {
+    color: black;
+    font-size: 4vh;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 700;
+    padding-top: 30px;
+
+
+}
+
+.tercera__columna {
+    height: 300px;
+    width: 300px;
+
+
+}
+
+.tercera__columna img {
+    height: 300px;
+    width: 300px;
+
+
+}
+
+.cuarta__columna {
+    height: 300px;
+    width: 150px;
+    margin-right: 62px;
+    margin-top: 5px;
+
+
+}
+
+.cuarta__columna img {
+    width: 170px;
+    height: 300px;
+}
+
+.quinta__columna {
+    background-color: rgba(151, 55, 55, 0.700);
+    height: 300px;
+    width: 150px;
+    margin-right: 5px;
+    margin-top: 5px;
+}
+
+.quinta__columna--parrafo {
+    color: black;
+    font-size: 2vh;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 700;
+    padding-top: 30px;
+    font-weight: 900;
+}
+
+.quinta__columna--parrafo2 {
+    font-size: 12px;
+}
+
+.sexta__columna {
+    background-color: rgb(187, 104, 104, 0.700);
+    height: 405px;
+    width: 612px;
+    margin-top: 5px;
+    position: relative;
+    left: 375px;
+    bottom: 410px;
+}
+
+.sexta__columna--parrafo {
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    padding-top: 50px;
+}
+
+.sexta__columna img {
+    width: 12vw;
+    margin-left: 350px;
+    border-radius: 50%;
+    position: relative;
+}
+
+/* Jorge empieza aqui */
+
+.container5 {
+    display: flex;
+}
+
+.container5__posicion-titulo {
+    text-align: justify;
+    width: 15vw;
+    height: 15vh;
+    position: absolute;
+    left: 818px;
+    top: 150px;
+}
+
+.container5--titulo {
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    font-size: 3vh;
+    font-weight: bolder;
+}
+
+.container5__top {
+    background-color: rgb(187, 104, 104);
+    width: 100vw;
+    height: 50vh;
+}
+
+.container5__mid1 {
+    background-color: white;
+    width: 250px;
+    height: 300px;
+    position: absolute;
+    left: 500px;
+    top: 150px;
+    padding: 1vh;
+}
+
+.container5__mid2 {
+    background-color: white;
+    width: 250px;
+    height: 300px;
+    position: absolute;
+    left: 800px;
+    top: 280px;
+    padding: 1vh;
+}
+
+.container5__mid3 {
+    background-color: white;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    left: 525px;
+    top: 500px;
+    padding: 1vh;
+}
+
+.mid1--imagen {
+    background-image: url(./imagenes/bodas.jpg);
+    background-size: cover;
+    width: 100%;
+    height: 50%;
+}
+
+.mid2--imagen {
+    background-image: url(./imagenes/bodas2.jpg);
+    background-size: cover;
+    width: 100%;
+    height: 50%;
+}
+
+.mid2-container5--texto {
+    text-align: justify;
+}
+
+.mid3--imagen {
+    background-image: url(./imagenes/bodas3.jpg);
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+
+.container5__bottom {
+    background-color: rgb(255, 255, 255);
+    width: 100vw;
+    height: 50vh;
+}
+
+/* Giani */
+
+.section2__background--color1 {
+    background-color: white;
+    width: vmax;
+    height: 30vh;
+    display: flex;
+    justify-content: center;
+}
+
+.section3 {
+    width: 175px;
+    height: 275px;
+}
+.section3 img {
+    border-radius: 50%;
+}
+.section3__h2 {
+    text-align: center;
+}
+
+.section3__parrafo {
+    text-align: justify;
+    font-family: 'Pacifico', cursive;
+}
+
+
+
+.section2__background--color2 {
+    background-color: rgb(187, 104, 104);
+    width: vmax;
+    height: 40vh;
+}
+
+.section2__background--color3 {
+    background-color: rgb(187, 104, 104);
+    width: vmax;
+    height: 30vh;
+    display: flex;
+    justify-content: center;
+}
+.section2__background--color4 {
+    background-color: rgb(187, 104, 104);
+    width: vmax;
+    height: 20vh;
+}
+
+
+.section4 {
+    width: 300px;
+    height: 250px;
+    background-color: white;
+    position: absolute;
+    left: 200px;
+    top: 680px;
+    border-color: rgba(151, 55, 55);
+    border-width: 7px;
+    border-style: solid;
+    padding: 15px;
+    padding-top: 0%;
+}
+
+.section4__texto--titulo {
+    text-align: center;
+}
+
+.section4__texto--parrafo {
+    text-align: justify;
+    font-family: 'Dancing Script', cursive;
+    font-size: x-large;
+}
+
+.section4__button {
+    margin-left: 40%;
+    border-radius: 15%;
+    background-color: rgba(218, 218, 218, 1);
+}
+
+
+
+/* Nicole */
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.section__portada--background {
+    background-image: url(https://images.pexels.com/photos/2395249/pexels-photo-2395249.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260);
+    /*background-position: center;*/
+    display: flex;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 80vh;
+    width: 100vw;
+    padding: 0px;
+}
+
+.section__portada {
+    background-color: rgba(151, 55, 55, 0.767);
+    left: 10vh;
+    margin-top: 10vh;
+    margin-left: 33vw;
+    width: 66vw;
+    height: 50vh;
+    padding: 0px;
+}
+
+.contenedor2 {
+    display: flex;
+}
+
+.bgbase__color1 {
+    background-color: rgb(187, 104, 104);
+    display: absolute;
+    width: 50vw;
+    height: 70vh;
+}
+
+.bgoverlay__color {
+    background-color: white;
+    color: rgb(187, 104, 104);
+    display: absolute;
+    width: 40vw;
+    height: 60vh;
+}
+
+.bgbase__color2 {
+    background-color: white;
+    color: rgb(187, 104, 104);
+    display: absolute;
+    width: 50vw;
+    height: 70vh;
+    padding: 0vw;
+}
+
+.portada__cta--titulo {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: block;
+    margin: auto;
+    color: white;
+    width: 50vw;
+    padding-left: 20vw;
+    padding-right: 20vw;
+    padding-top: 5vh;
+}
+
+.portada__titulo--uno {
+    font-size: 6vw;
+}
+
+.portada__titulo--tres {
+    font-size: 3vw;
+}
+
+.portada__titulo--seis {
+    font-size: 1vw;
+}
+
+/*rgb(187, 104, 104)
+rgba(151, 55, 55, 0.767)*/
+
+/*  adicionales  */
+
+footer {
+   text-align: center;
+}
+
