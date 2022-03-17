@@ -1,5 +1,6 @@
 .bloque__principal{
     margin-top: 30px;
+    
 
 }
 
@@ -9,18 +10,21 @@
     width: 350px;
     margin-right: 12px;
     margin-left: 12px;
+    
        
 }
 .primera__columna img{
     width: 300px;
     height: 250px;
     border-radius: 100%;
+    
 }
 
 .primera__columna--parrafo{
     font-size: 40px;
     color: white;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
 }
 
 
@@ -28,6 +32,7 @@
     background-color: aliceblue;
     height: 300px;
     width: 300px;
+    
 }
 .segunda__columna--parrafo{
     color: black;
@@ -42,12 +47,14 @@
 .tercera__columna{
     height: 300px;
     width: 300px;
+   
     
 }
 
 .tercera__columna img{
     height: 300px;
     width: 300px;
+   
     
 }
 
@@ -56,16 +63,13 @@
     width: 150px;
     margin-right: 62px;
     margin-top: 5px;
+    
  
 }
 .cuarta__columna img{
     width: 170px;
     height: 300px;
-
 }
-
-
-
 
 .quinta__columna{
     background-color: aliceblue;
@@ -74,6 +78,7 @@
     margin-right: 5px;
     margin-top: 5px;
   }
+
   .quinta__columna--parrafo{
     color: black;
     font-size: 2vh;
@@ -82,6 +87,7 @@
     padding-top: 30px;
     font-weight: 900;
   }
+
   .quinta__columna--parrafo2{
       font-size: 12px;
   }
@@ -94,7 +100,6 @@
     position: relative;
     left: 375px;
     bottom: 410px;
-    
  }
 
  .sexta__columna--parrafo{
@@ -102,7 +107,6 @@
      font-family: 'Times New Roman', Times, serif;
      font-weight: bold;
      padding-top: 50px;
-
  }
 
  .sexta__columna img{
@@ -110,8 +114,6 @@
      margin-left: 350px;
      border-radius: 50%;
      position: relative;
-
-
  }
 
 
@@ -206,3 +208,114 @@
     height: 50vh;
 }
 
+
+
+/* Giani */
+
+.color_blanco_1{
+    background-color: white;
+    width: vmax;
+    height: 30vh;
+    display: flex;
+    justify-content: center;
+}
+
+.idem{
+  
+    width: 175px;
+    height: 275px;
+}
+
+.idem__h2{
+text-align: center;
+} 
+
+.idem__p{
+    text-align: justify;
+    font-family: 'Pacifico', cursive;
+}
+
+.idem img {
+    border-radius: 50%;
+  
+}
+
+.color_gris_1{
+    background-color: rgba(218,218,218,1);
+    width: vmax;
+    height: 40vh;
+}
+
+.color_gris_2{
+    background-color: rgba(218,218,218,1);
+    width: vmax;
+    height: 30vh;
+    display: flex;
+    justify-content: center;
+  
+}
+
+.color_gris_2 img{ 
+    margin: 0;
+}
+
+.comentario{
+    width: 300px;
+    height: 250px;
+    background-color: white;
+    position: absolute;
+    left: 200px;
+    top: 650px;
+    border-color: rgba(218,218,218,1);
+    border-width: 7px;
+    border-style: solid;
+    padding: 15px;
+    padding-top: 0%;
+
+}
+.comentario__h5{
+    text-align: center;
+    
+    
+}
+.comentario__h2{
+    text-align: justify;
+    font-family: 'Dancing Script', cursive;
+}
+.comentario__button{
+    margin-left: 40%;
+    border-radius: 15%;
+    background-color:rgba(218,218,218,1) ;
+}
+.color_blanco_2{
+    background-color: white;
+    width: vmax;
+    height: 20vh;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+/*  adicionales  */
+footer{
+    display: relative;
+}
+.footer__black{
+    background-color: black;
+    height: 20vh;
+}
+
+
+
+.footer__text--texto{
+    color: white;
+   
+}
